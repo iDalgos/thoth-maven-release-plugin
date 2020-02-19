@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-Try It</actionName>
+            <displayName>Try It</displayName>
+            <goals>
+                <goal>--batch-mode</goal>
+                <goal>release:clean</goal>
+                <goal>release:prepare</goal>
+                <goal>release:stage</goal>
+            </goals>
+            <properties>
+                <maven.test.skip>true</maven.test.skip>
+                <maven.javadoc.failOnError>false</maven.javadoc.failOnError>
+            </properties>
+        </action>
+    </actions>
