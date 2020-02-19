@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.thoth</groupId>
     <artifactId>thoth-maven-release-plugin</artifactId>
-    <version>1.4-fix-sequence-SNAPSHOT</version>
+    <version>1.4-fix-sequence</version>
     <packaging>pom</packaging>
     
     <properties>
