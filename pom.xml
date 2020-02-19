@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.thoth</groupId>
     <artifactId>thoth-maven-release-plugin</artifactId>
-    <version>1.0.0.2-SNAPSHOT</version>
+    <version>1.0.0.2</version>
     <packaging>pom</packaging>
     
     <properties>
@@ -16,7 +16,7 @@
         <url>scm:git:file://D:/Projects/thoth-maven-release-plugin/.git</url>
         <connection>scm:git:file://D:/Projects/thoth-maven-release-plugin/.git</connection>
         <developerConnection>scm:git:file://D:/Projects/thoth-maven-release-plugin/.git</developerConnection>
-        <tag>thoth-maven-release-plugin-1.0.0.0</tag>
+        <tag>thoth-maven-release-plugin-1.0.0.2</tag>
     </scm>
     
     <build>
