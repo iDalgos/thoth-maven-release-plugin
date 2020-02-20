@@ -17,3 +17,9 @@ This project allowed me to answer these questions. The version number should fol
 
 The numbers are separated by the "." character. The "-" character is used to separate the numbers from
 the qualifier. Individual words of the qualifier are separated by the "-" character. Finally end in "-SNAPSHOT".
+
+Run Maven as:
+
+```bash
+mvn -Dmaven.test.skip=true -Dmaven.javadoc.failOnError=false --batch-mode release:clean release:prepare release:stage
+```
