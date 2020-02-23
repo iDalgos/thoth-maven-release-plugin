@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.thoth</groupId>
     <artifactId>thoth-maven-release-plugin</artifactId>
-    <version>1.10-fix-sequence</version>
+    <version>1.11-fix-sequence-SNAPSHOT</version>
     <packaging>pom</packaging>
     
     <properties>
@@ -16,7 +16,7 @@
         <url>scm:git:file://D:/Projects/thoth-maven-release-plugin/.git</url>
         <connection>scm:git:file://D:/Projects/thoth-maven-release-plugin/.git</connection>
         <developerConnection>scm:git:file://D:/Projects/thoth-maven-release-plugin/.git</developerConnection>
-        <tag>thoth-maven-release-plugin-1.10-fix-sequence</tag>
+        <tag>thoth-maven-release-plugin-1.7-fix-sequence</tag>
     </scm>
     
     <build>
