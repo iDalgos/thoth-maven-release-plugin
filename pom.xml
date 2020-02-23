@@ -34,13 +34,9 @@
                     </dependency>
                 </dependencies>
                 -->
-                
-                <!--
-                NOTE : This is only needed if your repository isn't in the default location
                 <configuration>
                     <stagingRepository>localforme::default::file://C:/Users/Michael/.m2/repository</stagingRepository>
                 </configuration>
-                -->
             </plugin>
         </plugins>
         
