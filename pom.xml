@@ -35,9 +35,7 @@
                     </dependency>
                 </dependencies>
                 -->
-                <configuration>
-                    <stagingRepository>localforme::default::file://C:/Users/Michael/.m2/repository</stagingRepository>
-                </configuration>
+                
             </plugin>
         </plugins>
         
